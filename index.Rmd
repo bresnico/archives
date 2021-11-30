@@ -40,17 +40,26 @@ Lien : <https://bresnico.github.io/psu1_25_novembre_2021/>
 Lien : <https://bresnico.github.io/cs1_1_decembre_2021/>
 
 - [prévu] Identification des contenus
+- [prévu] Première identification des équipes de formation
 
 ## Groupe consultatif (séance 1) - 6 décembre 2021
 
-Lien :
+Lien : <https://bresnico.github.io/gc1_6_decembre_2021/>
 
-- [prévu] Challenge du projet dépendant du comité de pilotage
+- [prévu] Listing de risques et opportunités en lien avec tout le projet
+- [prévu] Commentaires sur l'adéquation entre les contenus et le terrain
+
+## Rencontre HEP-VS - OES - SE - ?? décembre 2021
+
+Lien : 
+
+- [prévu] Mise au point de la stratégie budgétaire commune
 
 ## Rencontre avec l'OES - 24 janvier 2022
 
 Lien : <https://bresnico.github.io/oes3-24-janvier-2022/>
 
+- [prévu] Validation des travaux du groupe de pilotage
 - [prévu] Validation de la communication publique
 
 
