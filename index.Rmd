@@ -39,26 +39,42 @@ Lien : <https://bresnico.github.io/psu1_25_novembre_2021/>
 
 Lien : <https://bresnico.github.io/cs1_1_decembre_2021/>
 
-- [prévu] Identification des contenus
-- [prévu] Première identification des équipes de formation
+- Première identification des contenus
 
 ## Groupe consultatif (séance 1) - 6 décembre 2021
 
 Lien : <https://bresnico.github.io/gc1_6_decembre_2021/>
 
-- [prévu] Listing de risques et opportunités en lien avec tout le projet
-- [prévu] Commentaires sur l'adéquation entre les contenus et le terrain
+- Listing de risques et opportunités en lien avec tout le projet
+- Commentaires sur l'adéquation entre les contenus et le terrain
 
-## Rencontre HEP-VS - OES - SE - ?? décembre 2021
+## Rencontre HEP-VS - OES - SE - 21 décembre 2021
 
-Lien : 
+Lien : <https://bresnico.github.io/se_21_decembre_2021/>
 
-- [prévu] Mise au point de la stratégie budgétaire commune
+- Mise au point de la stratégie budgétaire commune
+
+## Conseil scientifique (séance 2) - 10 janvier 2022
+
+Lien : <https://bresnico.github.io/cs2-10-janvier-2022/>
+
+- [prévu] Approfondissement des 4 thèmes
+- [prévu] Définition du modèle sous-jacent
+
+## Groupe consultatif (séance 2) - 11 janvier 2022
+
+Lien : <https://bresnico.github.io/gc2-11-janvier-2022/>
+
+- [prévu] Prise de position sur les technologies utilisées
+- [prévu] Prise de position sur l'alternance présentiel-distanciel
 
 ## Rencontre avec l'OES - 24 janvier 2022
 
 Lien : <https://bresnico.github.io/oes3-24-janvier-2022/>
 
+- [prévu] Clarification des jalons budgétaires
+- [prévu] Adaptation du calendrier d'avancement du projet
+- [prévu] Validation des responsabilités entre les organes
 - [prévu] Validation des travaux du groupe de pilotage
 - [prévu] Validation de la communication publique
 
