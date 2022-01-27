@@ -72,12 +72,18 @@ Lien : <https://bresnico.github.io/gc2_11_janvier_2022/>
 
 Lien : <https://bresnico.github.io/oes3-24-janvier-2022/>
 
-- [prévu] Clarification des jalons budgétaires
-- [prévu] Adaptation du calendrier d'avancement du projet
-- [prévu] Validation des responsabilités entre les organes
-- [prévu] Validation des travaux du groupe de pilotage
-- [prévu] Validation de la communication publique
+- Identification des risques liés aux jalons budgétaires
+- Adaptation du calendrier d'avancement du projet (avec scénario de report d'1 an)
+- Information sur les responsabilités entre les organes
 
+## Rencontre avec l'OES - 22 mars 2022
+
+Lien : <https://bresnico.github.io/oes4-22-mars-2022/>
+
+- [prévu] Go/No-Go pour communication fin mars et démarrage formation en août 2022
+- [prévu] Nom de la formation
+- [prévu] Collaboration avec les insitutions partenaires
+- [prévu] Adaptation du calendrier d'avancement du projet
 
 
 Fait avec Distill pour R Markdown : <https://rstudio.github.io/distill>.
