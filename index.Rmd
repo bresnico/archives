@@ -58,15 +58,15 @@ Lien : <https://bresnico.github.io/se_21_decembre_2021/>
 
 Lien : <https://bresnico.github.io/cs2_10_janvier_2022/>
 
-- [prévu] Approfondissement des 4 thèmes
-- [prévu] Définition du modèle sous-jacent
+- Approfondissement des 4 thèmes
+- Définition du modèle sous-jacent
 
 ## Groupe consultatif (séance 2) - 11 janvier 2022
 
 Lien : <https://bresnico.github.io/gc2_11_janvier_2022/>
 
-- [prévu] Prise de position sur les technologies utilisées
-- [prévu] Prise de position sur l'alternance présentiel-distanciel
+- Prise de position sur les technologies utilisées
+- Prise de position sur l'alternance présentiel-distanciel
 
 ## Rencontre avec l'OES - 24 janvier 2022
 
@@ -75,6 +75,14 @@ Lien : <https://bresnico.github.io/oes3-24-janvier-2022/>
 - Identification des risques liés aux jalons budgétaires
 - Adaptation du calendrier d'avancement du projet (avec scénario de report d'1 an)
 - Information sur les responsabilités entre les organes
+
+
+## Rencontre avec le comité scientifique - 22 mars 2022
+
+Lien : <https://bresnico.github.io/cs3-22-mars-2022/>
+
+- Fixation des contenus
+- Répartition des missions et préparation des équipes
 
 ## Rencontre avec l'OES - 22 mars 2022
 
