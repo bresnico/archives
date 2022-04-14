@@ -77,7 +77,7 @@ Lien : <https://bresnico.github.io/oes3-24-janvier-2022/>
 - Information sur les responsabilités entre les organes
 
 
-## Rencontre avec le comité scientifique - 22 mars 2022
+## Rencontre avec le comité scientifique (CS3) - 22 mars 2022
 
 Lien : <https://bresnico.github.io/cs3-22-mars-2022/>
 
@@ -92,6 +92,20 @@ Lien : <https://bresnico.github.io/oes4-22-mars-2022/>
 - [prévu] Nom de la formation
 - [prévu] Collaboration avec les insitutions partenaires
 - [prévu] Adaptation du calendrier d'avancement du projet
+
+
+## Rencontre avec le groupe consultatif (GC3) - 4 mai 2022
+
+Lien : <https://bresnico.github.io/gc3-4-mai-2022/>
+
+- [prévu] Accueil
+- [prévu] Organes de la formation (organigramme final, rôle du client)
+- [prévu] Communication autour de la formation (nom de la formation, responsabilités, jalons)
+- [prévu] Structure finale de la formation (contenus, équipes de formation)
+- [prévu] Modalités finales de la formation (part technologique, ressources à disposition)
+- [prévu] Horaires en consultation
+- [prévu] Prochaines étapes
+- [prévu] Divers
 
 
 Fait avec Distill pour R Markdown : <https://rstudio.github.io/distill>.
