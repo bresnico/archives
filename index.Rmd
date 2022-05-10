@@ -120,6 +120,16 @@ Lien : <https://bresnico.github.io/cs4-9-mai-2022/>
 - [prévu] Prochaines étapes
 - [prévu] Divers
 
+
+## Rencontre avec le comité scientifique (CS5) - 13 juin 2022
+
+Lien : <https://bresnico.github.io/cs5-13-juin-2022/>
+
+- [prévu] Accueil
+- [prévu] Thème 4 : contenu, delivrable et modalités
+- [prévu] Informations sur les affaires courantes
+- [prévu] Divers
+
 Fait avec Distill pour R Markdown : <https://rstudio.github.io/distill>.
 
 
