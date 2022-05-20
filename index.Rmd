@@ -132,6 +132,7 @@ Lien : <https://bresnico.github.io/cs5-13-juin-2022/>
 
 - [prévu] Accueil
 - [prévu] Thème 4 : contenu, delivrable et modalités
+- [prévu] forme définitive des “vignettes cliniques”
 - [prévu] Informations sur les affaires courantes
 - [prévu] Divers
 
