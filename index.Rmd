@@ -111,20 +111,26 @@ Lien : <https://bresnico.github.io/gc3-4-mai-2022/>
 
 Lien : <https://bresnico.github.io/cs4-9-mai-2022/>
 
-- [prévu] Accueil
-- [prévu] Thème 4 : forme, contenu, responsabilités
-- [prévu] Horaires en consultation
-- [prévu] Communication autour de la formation
-- [prévu] Structure finale de la formation (contenus, équipes de formation)
-- [prévu] Modalités finales de la formation (part technologique, ressources à disposition)
-- [prévu] Prochaines étapes
-- [prévu] Divers
+- Accueil
+- Thème 4 : forme, contenu, responsabilités
+- Horaires en consultation
+- Communication autour de la formation
+- Structure finale de la formation (contenus, équipes de formation)
+- Modalités finales de la formation (part technologique, ressources à disposition)
+- Prochaines étapes
+- Divers
 
 ## Rencontre avec l'OES (OES5) - 7 juin 2022
 
 Lien : <https://bresnico.github.io/oes5-7-juin-2022/>
 
-- à venir...
+- Accueil
+- Etat d'avancement - chiffres et dates clés
+- Inscriptions, aménagements, équivalences
+- Positionnement AMES (AG 2022)
+- Prochaines étapes
+- Divers
+
 
 ## Rencontre avec le comité scientifique (CS5) - 13 juin 2022
 
