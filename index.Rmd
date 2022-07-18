@@ -14,6 +14,14 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Publication des horaires
+
+- [Lien vers le calendrier (master)](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=bf696369214a42319b72b15ff114c8a3) 
+- [Liste des événements de la session 1](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=f19a70ad82c540cb8b464e4bd34e64b7)
+- [Liste des événements de la session 2](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=41551bd371bd4365a20937bca9ab20d1)
+- [Liste des événements de la session 3](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=f4395c8c3b934e5ca9fc9735d37c1a09)
+
+
 ## Rencontre avec l'OES - 15 septembre 2021
 
 Lien : <https://bresnico.github.io/formation_es_rencontre_sept2021/> 
