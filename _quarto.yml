@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Formation FOCUS - suivi des travaux"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - "comm-11-aout-2022.qmd"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

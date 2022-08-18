@@ -4,10 +4,8 @@ description: |
   Historique des présentations aux partenaires.
 author:
   - name: Nicolas Bressoud 
-    url: https://hepvs.ch
-    affiliation: Haute école pédagogique du Valais
 date: "`r Sys.Date()`"
-output: distill::distill_article
+toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -161,10 +159,3 @@ Lien : <https://bresnico.github.io/oes6-24-octobre-2022/>
 - [prévu] Chiffres clés
 - [prévu] Etat des affaires courantes
 - [prévu] Premières régulations à envisager (boucle qualité)
-
-Fait avec Distill pour R Markdown : <https://rstudio.github.io/distill>.
-
-
-
-
-
