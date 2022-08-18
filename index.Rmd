@@ -14,6 +14,10 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Historique des communications aux participant·es
+
+- [Communication du 11 août 2022 via la formation continue](comm-11-aout-2022.html)
+
 ## Publication des horaires
 
 - [Lien vers le calendrier (master)](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=bf696369214a42319b72b15ff114c8a3) 
