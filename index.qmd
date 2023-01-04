@@ -6,6 +6,7 @@ author:
   - name: Nicolas Bressoud 
 date: "`r Sys.Date()`"
 toc: false
+lang: fr
 ---
 
 ```{r setup, include=FALSE}
@@ -146,23 +147,25 @@ Lien : <https://bresnico.github.io/oes5-7-juin-2022/>
 
 Lien : <https://bresnico.github.io/cs5-13-juin-2022/>
 
-- [prévu] Accueil
-- [prévu] Thème 4 : contenu, delivrable et modalités
-- [prévu] forme définitive des “vignettes cliniques”
-- [prévu] Informations sur les affaires courantes
-- [prévu] Divers
+- Accueil
+- Thème 4 : contenu, delivrable et modalités
+- Forme définitive des “vignettes cliniques”
+- Informations sur les affaires courantes
+- Divers
 
 ## Rencontre avec l'OES (OES6) - 3 novembre 2022
 
 Lien : <https://bresnico.github.io/oes6-3-novembre-2022/>
 
-- [prévu] Chiffres clés
-- [prévu] Etat des affaires courantes
-- [prévu] Premières régulations à envisager (boucle qualité)
+- Chiffres clés
+- Etat des affaires courantes
+- Premières régulations à envisager (boucle qualité)
 
 ## Présentation au SE et à l'OES - 13 décembre 2022
 
 ## Rencontre du Comité scientifique (CS6) - 10 janvier 2023
+
+Lien : <https://bresnico.github.io/cs6-10-janvier-2023/>
 
 - Accueil et informations
 - Etat d'avancement
